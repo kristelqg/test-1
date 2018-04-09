@@ -7,6 +7,8 @@ Email boilerplate developed with pug that takes advantage of inheritance, variab
 
 ### Installation
 
+To prepare this project to run, you'll need to have nodejs 6.4.0 or up installed in your computer. I suggest to use NVM in order to install node and manage diference version easily.
+
 Install dependencies and start the server.
 
 ```sh
